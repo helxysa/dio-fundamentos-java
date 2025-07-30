@@ -1,18 +1,18 @@
-## Getting Started
+Of course! Here's a revised version of your README, tailored to your DIO - GFT Java exercises.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+DIO - GFT Start Java Exercises 🚀
+This repository contains the solutions for the coding challenges and exercises from the GFT Start #5 Java bootcamp, provided by Digital Innovation One (DIO).
 
-## Folder Structure
+📂 Folder Structure
+The workspace is organized for Java development in Visual Studio Code:
 
-The workspace contains two folders by default, where:
+src: This folder holds all the Java source code files (.java).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+lib: This folder is for managing external dependencies or libraries (.jar files).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+bin: Compiled Java class files (.class) are automatically generated in this folder.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Note: To customize this structure, you can modify the settings in the .vscode/settings.json file.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+⚙️ Dependency Management
+This project uses the standard folder-based approach for dependencies. If you need to add any .jar files, simply place them in the lib folder. The JAVA PROJECTS view in VS Code will automatically reference them.
