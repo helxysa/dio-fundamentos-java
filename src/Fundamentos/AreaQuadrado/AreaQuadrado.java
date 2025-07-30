@@ -1,4 +1,4 @@
-package AreaQuadrado;
+package Fundamentos.AreaQuadrado;
 
 import java.util.Scanner;
 

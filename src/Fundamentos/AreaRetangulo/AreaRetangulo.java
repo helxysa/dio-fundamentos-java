@@ -1,4 +1,4 @@
-package AreaRetangulo;
+package Fundamentos.AreaRetangulo;
 
 import java.util.Scanner;
 
