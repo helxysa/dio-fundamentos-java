@@ -1,18 +1,99 @@
-Of course! Here's a revised version of your README, tailored to your DIO - GFT Java exercises.
+# DIO - GFT Start Java Exercícios 🚀
+## Fundamentos JAVA
+Este repositório contém as soluções para os desafios de código e exercícios do bootcamp **GFT Start #5 Java**, oferecido pela **Digital Innovation One (DIO)**.
 
-DIO - GFT Start Java Exercises 🚀
-This repository contains the solutions for the coding challenges and exercises from the GFT Start #5 Java bootcamp, provided by Digital Innovation One (DIO).
+## 📋 Sobre o Projeto
 
-📂 Folder Structure
-The workspace is organized for Java development in Visual Studio Code:
+O objetivo deste repositório é documentar e compartilhar o aprendizado obtido durante o bootcamp, incluindo:
 
-src: This folder holds all the Java source code files (.java).
+- **Exercícios práticos** de programação Java
+- **Desafios de código** propostos pela plataforma
+- **Projetos** desenvolvidos ao longo do curso
+- **Soluções** implementadas seguindo as melhores práticas
 
-lib: This folder is for managing external dependencies or libraries (.jar files).
+## 📂 Estrutura de Pastas
 
-bin: Compiled Java class files (.class) are automatically generated in this folder.
+O workspace está organizado para desenvolvimento Java no Visual Studio Code:
 
-Note: To customize this structure, you can modify the settings in the .vscode/settings.json file.
+```
+projeto/
+├── src/                 # Arquivos de código-fonte Java (.java)
+├── lib/                 # Dependências externas e bibliotecas (.jar)
+├── bin/                 # Arquivos compilados (.class) - gerados automaticamente
+└── .vscode/            # Configurações do VS Code
+    └── settings.json   # Configurações personalizadas do projeto
+```
 
-⚙️ Dependency Management
-This project uses the standard folder-based approach for dependencies. If you need to add any .jar files, simply place them in the lib folder. The JAVA PROJECTS view in VS Code will automatically reference them.
+### 📝 Descrição das Pastas
+
+- **`src/`**: Contém todos os arquivos de código-fonte Java (`.java`)
+- **`lib/`**: Pasta destinada ao gerenciamento de dependências externas ou bibliotecas (`.jar`)
+- **`bin/`**: Arquivos de classe Java compilados (`.class`) são gerados automaticamente nesta pasta
+
+> **💡 Dica**: Para personalizar esta estrutura, você pode modificar as configurações no arquivo `.vscode/settings.json`.
+
+## ⚙️ Gerenciamento de Dependências
+
+Este projeto utiliza a abordagem padrão baseada em pastas para dependências. 
+
+### Como adicionar dependências:
+
+1. Faça o download do arquivo `.jar` da biblioteca desejada
+2. Coloque o arquivo na pasta `lib/`
+3. A visualização **JAVA PROJECTS** no VS Code irá referenciar automaticamente as dependências
+
+## 🛠️ Pré-requisitos
+
+Para executar os projetos deste repositório, você precisará de:
+
+- **Java JDK** 8 ou superior
+- **Visual Studio Code** com a extensão Java Extension Pack
+- **Git** para versionamento
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/dio-gft-java-exercises.git
+   ```
+
+2. Abra o projeto no Visual Studio Code:
+   ```bash
+   cd dio-gft-java-exercises
+   code .
+   ```
+
+3. Navegue até a pasta `src/` e execute os arquivos Java desejados
+
+## 📚 Conteúdo do Bootcamp
+
+### Módulos Abordados no BootCamp:
+
+- ✅ Fundamentos da Linguagem Java
+- ✅ Programação Orientada a Objetos
+- ✅ Estruturas de Dados e Algoritmos
+- ✅ Tratamento de Exceções
+- ✅ Manipulação de Arquivos
+- ✅ Coleções em Java
+- ✅ Stream API
+- ✅ Projetos Práticos
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para:
+
+- Reportar bugs
+- Sugerir melhorias
+- Adicionar novas soluções
+- Compartilhar conhecimento
+
+## 📄 Licença
+
+
+---
+
+⭐ **Se este repositório foi útil para você, considere dar uma estrela!**
+
+---
+
+*Desenvolvido com 💙 durante o bootcamp GFT Start #5 Java da DIO*
